@@ -2,4 +2,4 @@
 
 «[Кексби. Финальное испытание](https://htmlacademy.ru/courses/345)» by HTML Academy
 
-Task completed in 2019.
+Task completed in August 2020.
