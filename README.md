@@ -1,5 +1,5 @@
 # Kvast_HTML_Academy
 
-«[Кексби. Финальное испытание](https://htmlacademy.ru/courses/345)» by HTML Academy
+Click [here](https://uliana-s.github.io/kvast_htmlacademy/) to preview html-page.
 
-Task completed in August 2020.
+«[Кексби. Финальное испытание](https://htmlacademy.ru/courses/345)» by HTML Academy completed in August 2020.
