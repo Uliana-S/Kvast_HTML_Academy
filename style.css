@@ -127,12 +127,6 @@ body {
 	text-transform: uppercase;
 }
 
-.new-good {
-	margin: 0;
-	padding: 0;
-	width: 398px;
-}
-
 .new h2 {
 	margin: 0;
 	padding: 0;
@@ -148,6 +142,18 @@ body {
 	padding-left: 34px;
 	margin-bottom: 20px;
 	padding-bottom: 20px;
+}
+
+.new-good {
+	margin: 0;
+	padding: 0;
+	width: 398px;
+	float: left;
+	border-right: 1px solid rgb(229,229,229);
+}
+
+.new-good:nth-child(2) {
+	border-left: 1px solid rgb(229,229,229);
 }
 
 .info {
@@ -181,22 +187,6 @@ body {
 .new-good img {
 	top: 5px;
 	margin-left: 44px;
-}
-
-.bottle-left {
-	margin: 0;
-	padding: 0;
-	float: left;
-	border-left:  1px solid rgb(229,229,229);
-	border-right: 1px solid rgb(229,229,229);
-}
-
-.bottle-right {
-	margin: 0;
-	padding: 0;
-	float: left;
-	margin-right: 1px;
-	border-right: 1px solid rgb(229,229,229);
 }
 
 .description p{
@@ -437,6 +427,7 @@ body {
 }
 
 .press blockquote {
+	position: relative;
 	padding: 0;
 	margin: 0;
 	margin-top: 75px;
@@ -453,7 +444,7 @@ body {
 	content: '';
 	position: absolute;
 	margin-top: 5px;
-	left: 135px;
+	left: -105px;
 	width: 45px;
 	height: 35px;
 	background-image: url('img/spritesheet.png');
